@@ -1,0 +1,17 @@
+package LacosRepeticao;
+
+public class Laco {
+	public static void main(String[] args) {
+		int qtd = 0;
+		while(qtd < 10) {
+			qtd++;
+			System.out.println(qtd);
+		}
+		
+		do {
+			qtd--;
+			System.out.println(qtd);
+		}while(qtd>0)
+		
+	}
+}

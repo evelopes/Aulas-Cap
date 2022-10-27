@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\eveli\OneDrive\PROGRAMAÇÃO\Repositórios\Java\capgemini\.metadata\.plugins\org.eclipse.jdt.core
+131792988.index
+2063314829.index
+1865797976.index

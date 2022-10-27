@@ -1,0 +1,13 @@
+package LacosRepeticao;
+
+public class Laco {
+	public static void main(String[] args) {
+		int qtd;
+		while(qtd < 10) {
+			qtd++
+			System.out.println(qtd);
+			
+		}
+		
+	}
+}

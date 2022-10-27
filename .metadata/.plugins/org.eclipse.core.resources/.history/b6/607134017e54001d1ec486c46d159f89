@@ -1,0 +1,25 @@
+package OperadoresLogicos;
+
+public class RelacionaisLogicos {
+	public static void main(String[] args) {
+		int num1, num2;
+		num1 = 10;
+		num2 = 20;
+		num3 = 2;
+		num4 = 2;
+		
+		if(num1 == num2) {
+			System.out.println("São iguais");
+		}else if(num1 != num2) {
+			System.out.println("São diferentes");
+			
+		}
+		if(num1 >= num2) {
+			System.out.println("Numero 1 é maior");
+			
+		}else if(num1 <= num2) {
+			System.out.println("Numero 1 é menor");
+			
+		}
+	}
+}
